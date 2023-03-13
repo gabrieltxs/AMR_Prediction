@@ -1,4 +1,4 @@
-AMR prediction with Random Forest and LGBMClassifier models
+##AMR prediction with Random Forest and LGBMClassifier models
 This repository contains a Python script for predicting antimicrobial resistance (AMR) using the Random Forest and LGBMClassifier models. The script reads input datasets from a directory, applies feature extraction techniques to obtain k-mer features, trains and tests the models using cross-validation, and outputs the results in text files.
 
 Getting Started
