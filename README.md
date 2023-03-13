@@ -60,7 +60,7 @@ The script uses two models for AMR prediction: Random Forest and LGBMClassifier.
 The script outputs the results of each model to a text file in the specified output directory. The results include accuracy, precision, recall, F1 score, and area under the ROC curve.
 
 ## Authors
-John Doe - Initial work - johndoe
+Gabriel Sousa - gabrieltxs
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
