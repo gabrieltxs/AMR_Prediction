@@ -28,7 +28,7 @@ Clone the repository to your local machine and install the required libraries:
   $ git clone https://github.com/username/repo.git
   $ cd repo
   $ pip install -r requirements.txt
-```![Uploading Retrospectives.jpg…]()
+```
 
 
 ### Usage
